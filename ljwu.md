@@ -9,6 +9,9 @@ Find us on our [Meetup page](https://www.meetup.com/julia-gender-inclusive/).
 Your instructors are two PhD students in linguistics with a background in R and Python. Julia & Kyla also organize R-Ladies Freiburg and teach statistics, so they are especially excited to welcome those who use R for data science, those who come from non-STEM backgrounds, and anyone who wants a judgement-free, encouraging approach to learning programming. The workshop will take place via Zoom.
 
 # Past workshops
+
+Materials in our [Github repo](https://github.com/JuliaGenderInclusive/learn-julia).
+
 ~~~
 <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLP8iPy9hna6TbWJ-Uo-qkKRVFpHuCyivG" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 ~~~
