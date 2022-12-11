@@ -2,9 +2,9 @@ nav {
   font-size: 80%;
 }
 header {
-  text-align: center;
-  padding: 1rem;
+  padding: 1rem 0;
   font-size: 1.75rem;
+  font-weight: bold;
 }
 
 .right-align {
