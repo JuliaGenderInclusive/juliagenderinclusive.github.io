@@ -9,3 +9,31 @@ community, including women, non-binary people, trans people of all genders, and
 people exploring or questioning their gender. Because gender is multifaceted,
 we are intentionally [being general about what gender under-representation
 means](https://medium.com/@quinncrossley/uplifting-diverse-genders-beyond-women-and-non-binary-916c890f2185).
+
+# Our pledge
+In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender (including identity and expression), level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+
+# Our standards
+As part of the Julia community, we abide by the [Julia community standards](https://julialang.org/community/standards/). In addition, we strive to create a positive environment. Examples of behavior that contributes to creating a positive environment include:
+- Using welcoming and inclusive language
+- Giving credit where credit is due
+- Being respectful of differing viewpoints and experiences
+- Gracefully accepting and giving constructive feedback
+- Focusing on what is positive for the community
+- Showing empathy towards other community members
+
+Examples of unacceptable behavior by participants include:
+- Trolling, insulting/derogatory comments, and personal or political attacks
+- Public or private harassment
+- Publishing others’ private information, such as a physical or electronic address, without explicit permission
+- Other conduct which could reasonably be considered inappropriate in a professional setting
+- The use of sexualized language or imagery and unwelcome sexual attention or advances
+- Sexualizing or ascribing gender to the Julia language. While "Julia" is a female name in some parts of the world, a programming language cannot have a gender.
+
+# Scope
+This Code of Conduct applies both within community spaces and in public spaces when an individual is representing our community. Examples of representing our community include using an official project e-mail address, posting via an official social media account, or acting as a representative at an online or offline event. 
+
+# Attribution
+This Code of Conduct is adapted from the Julia Gals code of conduct, which in turn was adapted from the [Contributor Covenant, version 1.4](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html), with additions from the [Julia community standards](https://julialang.org/community/standards/).
+
+For answers to common questions about this code of conduct, see [here](https://www.contributor-covenant.org/faq).
