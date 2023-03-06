@@ -1,6 +1,5 @@
 @def title = "Julia Gender Inclusive"
 
-
 We are an initiative to promote gender diversity
 and inclusion within the wider Julia community. 
 
@@ -17,4 +16,4 @@ means](https://medium.com/@quinncrossley/uplifting-diverse-genders-beyond-women-
 We run a few events:
 - [Learn Julia with us](ljwu): a series of workshops diving into Julia
 - Coffee Meetings: member chat, and hear how we use Julia in our work or personal projects
-- JGI Hackathon
+- [JGI Hackathon](hackathon)
