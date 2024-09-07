@@ -54,4 +54,6 @@ for m in matches
 end
 ```
 
+@@organizers
 \textoutput{organizers}
+@@
