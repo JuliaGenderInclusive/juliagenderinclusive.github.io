@@ -54,6 +54,6 @@ for m in matches
 end
 ```
 
-@@organizers
+@@organizer_avatars
 \textoutput{organizers}
 @@
