@@ -31,3 +31,27 @@ This Code of Conduct applies both within community spaces and in public spaces w
 This Code of Conduct is adapted from the Julia Gals code of conduct, which in turn was adapted from the [Contributor Covenant, version 1.4](https://www.contributor-covenant.org/version/1/4/code-of-conduct.html), with additions from the [Julia community standards](https://julialang.org/community/standards/).
 
 For answers to common questions about this code of conduct, see [here](https://www.contributor-covenant.org/faq).
+
+# Organizers
+
+```julia:organizers
+#hideall
+raw = read(`curl https://github.com/orgs/JuliaGenderInclusive/people`, String)
+matches = eachmatch(r"<img.*?avatar-user.*?>", raw);
+extract_avatarurl(m) = first(match(r"src=\"(.*?)\"", m.match).captures)
+extract_username(m) = first(match(r"alt=\"@(.*?)\"", m.match).captures)
+profileurl(username) = "http://www.github.com/$username"
+
+function websitelink(m)
+	avatarurl = extract_avatarurl(m)
+	username = extract_username(m)
+	profile = profileurl(username)
+	"[![$username]($avatarurl)]($profile)"
+end
+
+for m in matches
+	websitelink(m) |> println
+end
+```
+
+\textoutput{organizers}

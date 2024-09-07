@@ -19,6 +19,5 @@ We run a few events:
 - [JGI Hackathon](hackathon)
 
 ~~~
-<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=America%2FDetroit&bgcolor=%23ffffff&showCalendars=0&showDate=0&showTitle=0&mode=AGENDA&src=YWE0NjU4YWFiOWI3YzQ1NmUxN2E4MDRkNWRhYjVkNGZlODBlMDI4YmNkOTg2YjMwOGU1OWE5ZDY3NWI1ZWUzY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%239E69AF" style="border:0" width="100%" height="600" frameborder="0" scrolling="no"></iframe>
-<a class="twitter-timeline" href="https://twitter.com/juliainclusive?ref_src=twsrc%5Etfw">Tweets by juliainclusive</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=America%2FDetroit&bgcolor=%23ffffff&showCalendars=0&showDate=0&showTitle=0&mode=AGENDA&src=YWE0NjU4YWFiOWI3YzQ1NmUxN2E4MDRkNWRhYjVkNGZlODBlMDI4YmNkOTg2YjMwOGU1OWE5ZDY3NWI1ZWUzY0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%239E69AF" style="border:0" width="100%" height="600" frameborder="0" scrolling="no"></iframe><a class="twitter-timeline" href="https://twitter.com/juliainclusive?ref_src=twsrc%5Etfw">Tweets by juliainclusive</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 ~~~
