@@ -4,6 +4,9 @@ With a combination of community building, targeted
 outreach, education, mentorship, and mutual support, we are addressing
 [potential causes of gender under-representation](https://cs.stanford.edu/people/eroberts/cs201/projects/women-in-cs/main.html) in the Julia community. 
 
+# Our history
+Julia Gender Inclusive [was founded in June 2021](https://discourse.julialang.org/t/announcing-julia-gender-inclusive/63702) by a group of gender under-represented Julia community members (Huda, Kim, Laura, Krithika, and Xuan) to promote gender inclusivity and diversity within the Julia community. Since our founding, we have organized a wide range of activities to create community, provide mentorship, and foster discussion around gender inclusivity in Julia, including online coffee chats, [JuliaCon talks](https://www.youtube.com/watch?v=8vk_VQF6PSE) and events, Birds-of-Feather discussions, [hackathons](https://juliagenderinclusive.github.io/hackathon/), and our ["Learn Julia With Us" workshop series](https://www.youtube.com/watch?v=oTUmW8dWZws&list=PLP8iPy9hna6TbWJ-Uo-qkKRVFpHuCyivG).
+
 # Our pledge
 In the interest of fostering an open and welcoming environment, we as contributors and maintainers pledge to making participation in our project and our community a harassment-free experience for everyone, regardless of age, body size, disability, ethnicity, sex characteristics, gender (including identity and expression), level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
